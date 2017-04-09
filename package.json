@@ -1,6 +1,6 @@
 {
   "name": "arr-unique",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get unique values of an array. Really, like deeply unique.",
   "main": "index.js",
   "repository": "https://github.com/maticzav/arr-unique",
