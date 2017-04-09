@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Get unique values of an array. Really, like deeply unique.",
   "main": "index.js",
-  "repository": "https://github.com/maticzav/array-unicus",
+  "repository": "https://github.com/maticzav/arr-unique",
   "author": "Matic Zavadlal <matic.zavadlal@gmail.com>",
   "license": "MIT",
   "scripts": {
