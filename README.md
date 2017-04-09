@@ -1,11 +1,11 @@
-# array-unicus [![Build Status](https://travis-ci.org/maticzav/array-unicus.svg?branch=master)](https://travis-ci.org/maticzav/array-unicus)
+# arr-unique [![Build Status](https://travis-ci.org/maticzav/arr-unique.svg?branch=master)](https://travis-ci.org/maticzav/arr-unique)
 
 > Get deep unique values of an array.
 
 ## Install
 
 ```
-$ npm install --save array-unicus
+$ npm install --save arr-unique
 ```
 
 
