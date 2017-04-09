@@ -29,5 +29,16 @@
   },
   "dependencies": {
     "deep-equal": "^1.0.1"
-  }
+  },
+  "keywords": [
+    "arr",
+    "array",
+    "array-unique",
+    "unique",
+    "array-uniq",
+    "array-deep-unique",
+    "array-deep",
+    "deep",
+    "functional"
+  ]
 }
