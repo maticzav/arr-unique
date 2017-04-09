@@ -1,0 +1,33 @@
+{
+  "name": "array-unicus",
+  "version": "1.0.0",
+  "description": "Get unique values of an array. Really, like deeply unique.",
+  "main": "index.js",
+  "repository": "https://github.com/maticzav/array-unicus",
+  "author": "Matic Zavadlal <matic.zavadlal@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "xo": {
+    "space": true,
+    "semicolon": false,
+    "rules": {
+      "object-curly-spacing": 0,
+      "import/no-extraneous-dependencies": 0,
+      "import/no-named-as-default": 0,
+      "import/no-unresolved": 0,
+      "import/named": 0,
+      "import/no-unassigned-import": 0
+    }
+  },
+  "devDependencies": {
+    "ava": "^0.19.0",
+    "eslint-config-xo": "^0.18.1",
+    "eslint-plugin-xo": "^1.0.0",
+    "xo": "^0.18.1"
+  },
+  "dependencies": {
+    "deep-equal": "^1.0.1"
+  }
+}
